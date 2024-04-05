@@ -1,0 +1,2 @@
+Word count: 21
+Sentence count: 3
